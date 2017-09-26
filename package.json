@@ -3,5 +3,9 @@
     "equirect-cubemap-faces-js": "1.2.0",
     "pngjs": "^3.3.0",
     "yargs": "^9.0.1"
+  },
+  "bin": {
+    "equirectangular-to-cubemap": "./index.js",
+    "e2c": "./index.js"
   }
 }
